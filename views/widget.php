@@ -1,6 +1,6 @@
 <?php
 
-/**
+/** 1.1.2
 * @link https://github.com/gilek/yii2-gtreetable
 * @copyright Copyright (c) 2015 Maciej Kłak
 * @license https://github.com/gilek/yii2-gtreetable/blob/master/LICENSE
