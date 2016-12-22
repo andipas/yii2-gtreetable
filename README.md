@@ -1,6 +1,6 @@
 # Yii2-GTreeTable
 
-Yii2-GTreeTable is extension of Yii 2 framework which is wrapper for [bootstrap-gtreetable](https://github.com/gilek/bootstrap-gtreetable) plugin, on the other hand provides support to server side application.
+Yii2-GTreeTable is extension of Yii 2 framework which is wrapper for [bootstrap-gtreetable](https://github.com/gilek/bootstrap-gtreetable) plugin, on the other hand provides support to server side application. With fixes;
 
 Thanks to software it's possible to map actual state of nodes to data base.
 
